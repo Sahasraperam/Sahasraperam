@@ -4,25 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=200&section=header&text=Sahasra%20Peram&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20Full-Stack%20Developer%20%7C%20Creative%20Coder%20%7C%20Digital%20Artist%20✨&descSize=18&descAlignY=55" />
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40">
-  ✨ Full-Stack Alchemist | Code Artisan | Digital Innovator 🎨
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40">
-</h1>
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=🎨+Creative+MERN+Stack+Developer+%26+UI%2FUX+Enthusiast;💎+JavaScript+Magician+%7C+React+Wizard+%7C+Node.js+Ninja;🔮+Cybersecurity+Explorer+%26+Digital+Guardian;☁️+Cloud+Architecture+Student+%26+Tech+Dreamer;🌟+Building+Tomorrow's+Web+Today;💫+Code+%7C+Create+%7C+Collaborate+%7C+Inspire" alt="Typing SVG" />
 </h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahasraperam&label=✨%20Profile%20Magic&color=ff69b4&style=for-the-badge&logo=sparkles" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Sahasraperam?label=🌟%20Stargazers&style=for-the-badge&color=purple&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Sahasraperam?label=💫%20Cosmic%20Stars&style=for-the-badge&color=gold&logo=github" alt="GitHub Stars" />
-</div>
-
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌸 Creative Developer Profile & Journey
 
@@ -31,16 +17,10 @@
 ### 🎯 **Who Am I?**
 
 - 🎓 **Computer Science Student** - Passionate about technology & innovation
-- 🌐 **MERN Stack Artisan** - Crafting beautiful full-stack experiences
 - 💎 **Frontend Specialist** - React enthusiast with an eye for design
 - 🔮 **Security Conscious** - Building secure, robust applications
-- ☁️ **Cloud Explorer** - Learning modern deployment strategies
 - 🎨 **UI/UX Advocate** - Creating intuitive user experiences
 - 📚 **Lifelong Learner** - Always exploring emerging technologies
-
-### 💫 **My Code Philosophy**
-
-> _"Every line of code is a brushstroke on the canvas of innovation. I don't just develop applications—I architect digital dreams, weave security into beauty, and transform ideas into interactive poetry that lives in the cloud."_
 
 ### 🌟 **2025 Vision Board**
 
@@ -48,15 +28,10 @@
 ✨ Dream Goals:
   - [ ] 🎨 Master Advanced React Patterns & Next.js Magic
   - [ ] 🔐 Build Ultra-Secure Web Applications
-  - [ ] ☁️ Deploy Scalable Solutions on AWS Cloud
   - [ ] 🤝 Lead Open-Source React Component Library
   - [ ] 💼 Join Amazing Tech Team as Full-Stack Developer
-  - [ ] 📝 Launch "Code & Coffee" Technical Blog Series
   - [ ] 🏆 Create Portfolio of 15+ Stunning Web Apps
-  - [ ] 🎤 Inspire Others at Web Development Conferences
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ My Digital Toolkit & Creative Arsenal
 
@@ -71,32 +46,24 @@
 ### 🎨 **Frontend Magic & Design**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,sass,tailwind,bootstrap,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
 </p>
 
 ### ⚙️ **Backend Wizardry & Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase&theme=dark" />
-</p>
-
-### ☁️ **Cloud & DevOps Universe**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase&theme=dark" />
 </p>
 
 ### 🎯 **Creative Tools & Security**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
 </p>
 
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌈 Full-Stack Development & Security Wonderland
 
@@ -132,21 +99,10 @@
 🔍 Penetration Testing • 🚪 Access Control • 📊 Security Monitoring
 
 </td></tr>
-<tr><td>
-
-### ☁️ **CLOUD & MODERN DEPLOYMENT**
-
-☁️ AWS Services Exploration • 🚀 Serverless Architecture • 🐳 Containerization  
-🔄 CI/CD Pipeline Magic • 📊 Cloud Monitoring • 🌍 Global Content Delivery  
-🗄️ Cloud Database Solutions • 🔧 Infrastructure as Code • 📈 Auto-scaling Solutions
-
-</td></tr>
 </table>
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics & Coding Journey
 
@@ -169,98 +125,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Featured Projects & Digital Gallery
-
-<div align="center">
-
-### 🎨 **Creative Portfolio Showcase**
-
-| 🌟 **Project**                           | 🛠️ **Tech Magic**                | 📝 **Description**                                 | ✨ **Status**      |
-| ---------------------------------------- | -------------------------------- | -------------------------------------------------- | ------------------ |
-| 🎭 **Interactive E-commerce Experience** | React, Node.js, MongoDB, Stripe  | Beautiful shopping platform with smooth animations | 🎨 Designing       |
-| 🔐 **Secure Social Network**             | MERN, Socket.io, JWT             | Real-time social platform with end-to-end security | ⚡ In Progress     |
-| 📱 **Responsive Portfolio Studio**       | Next.js, Framer Motion, Tailwind | Creative portfolio with stunning visual effects    | ✅ Live & Glowing  |
-| 🌈 **Component Library Paradise**        | React, Storybook, TypeScript     | Beautiful, reusable UI components for developers   | 🚀 Planning        |
-| ☁️ **Cloud Dashboard Analytics**         | React, AWS, D3.js                | Real-time data visualization dashboard             | 🎯 Conceptualizing |
-
-### 🌟 **My Development Passions**
-
-- **🎨 Creative Frontend Development** - Bringing designs to life with stunning interactions
-- **🔐 Security-First Development** - Building trust through secure coding practices
-- **☁️ Modern Cloud Architecture** - Deploying scalable solutions with AWS
-- **🤝 Open Source Contribution** - Sharing knowledge through beautiful code
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📚 Learning Adventures & Growth Path
-
-<div align="center">
-
-```yaml
-🌸 CURRENTLY BLOSSOMING IN:
-  Creative Frontend:
-    - Advanced React Patterns & Custom Hooks
-    - Next.js 14 & App Router Magic
-    - Framer Motion & GSAP Animations
-    - Three.js & WebGL Experiences
-    - Modern CSS Architecture & Design Systems
-
-  Backend Mastery:
-    - Node.js Performance Optimization
-    - GraphQL & Apollo Server
-    - Microservices with Docker
-    - Real-time Applications with Socket.io
-    - Database Design & Advanced Queries
-
-  Security & Ethics:
-    - Web Application Security Testing
-    - OWASP Top 10 Implementation
-    - Secure API Development
-    - Authentication & Authorization
-    - Privacy-First Development
-
-  Cloud & DevOps:
-    - AWS Serverless Architecture
-    - CI/CD Pipeline Automation
-    - Container Orchestration
-    - Performance Monitoring
-    - Scalable Infrastructure Design
-
-🎯 CERTIFICATION DREAMBOARD 2025:
-  Creative Goals:
-    - [ ] AWS Certified Developer - Associate
-    - [ ] React Professional Developer Certification
-    - [ ] MongoDB Certified Developer Associate
-    - [ ] Google UX Design Certificate
-    - [ ] Certified Ethical Hacker (CEH) Fundamentals
-
-  Future Aspirations:
-    - [ ] AWS Solutions Architect Professional
-    - [ ] Advanced React & Node.js Specialization
-    - [ ] Cybersecurity Analyst Certification
-    - [ ] Cloud Security Professional
-
-🏆 DREAM ACHIEVEMENTS:
-    - [ ] Create 20+ Open Source React Components
-    - [ ] Build 15+ Full-Stack Production Apps
-    - [ ] Write 50+ Inspiring Tech Articles
-    - [ ] Mentor 100+ Aspiring Developers
-    - [ ] Speak at 5+ Tech Conferences
-    - [ ] Lead Development Team at Innovative Company
-```
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🏆 Achievement Gallery & Recognition
 
 <p align="center">
@@ -275,7 +139,6 @@
   <img src="https://img.shields.io/badge/🎓%20Student-Computer%20Science-blueviolet?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/🎨%20MERN-Creative%20Developer-ff69b4?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/🔐%20Security-Web%20Guardian-red?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/☁️%20Cloud-AWS%20Explorer-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ### 💎 **Technical Artistry**
@@ -293,14 +156,11 @@
   <img src="https://img.shields.io/badge/Deployment-Vercel%20%7C%20Netlify-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Testing-Jest%20%7C%20Cypress-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Animation-Framer%20%7C%20GSAP-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Connect & Create Together
 
@@ -371,18 +231,4 @@
     🌟 <strong>"I don't just develop applications—I architect digital dreams, weave security into beauty, and transform ideas into interactive poetry that lives in the cloud."</strong> 🌟
   </h3>
   <p><em>~ Crafting Tomorrow's Web with Passion, Purpose & Innovation ~</em></p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
-
-<!-- Animated Contributions -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahasraperam&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true&card_width=800&custom_title=🌸%20Coding%20Journey%20Visualization" />
-</div>
-
-<!-- Creative Footer Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=14&duration=4000&pause=2000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Thanks+for+visiting+my+digital+universe!+✨;🌟+Let's+build+something+amazing+together!+🌟;💫+Keep+coding%2C+keep+creating%2C+keep+inspiring!+💫" alt="Footer Typing" />
 </div>
