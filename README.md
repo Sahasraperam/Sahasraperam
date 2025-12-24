@@ -8,6 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=🎨+Creative+MERN+Stack+Developer+%26+UI%2FUX+Enthusiast;💎+JavaScript+Magician+%7C+React+Wizard+%7C+Node.js+Ninja;🔮+Cybersecurity+Explorer+%26+Digital+Guardian;☁️+Cloud+Architecture+Student+%26+Tech+Dreamer;🌟+Building+Tomorrow's+Web+Today;💫+Code+%7C+Create+%7C+Collaborate+%7C+Inspire" alt="Typing SVG" />
 </h3>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sairohithtappatla&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sairohithtappatla?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/sairohithtappatla?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars" />
+</div>
 ---
 
 ## 🌸 Creative Developer Profile & Journey
